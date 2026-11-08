@@ -2,12 +2,12 @@
 
 A Java Swing application for managing laundry orders.
 
-#Features
+Features
 - Register laundry orders
 - Display pending laundry orders
 - Process the next laundry order
 - Search laundry orders by transaction ID
 
-##Subjects
+Subjects
 Data Structures and Algorithms(IT20)
 Object-Oriented Programming (IT21)
